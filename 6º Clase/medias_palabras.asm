@@ -1,0 +1,5 @@
+	.data
+	
+	.word 0x00FABADA
+	.half 0xCAFE
+	.byte 0xAA
